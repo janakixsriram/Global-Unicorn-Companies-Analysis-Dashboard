@@ -25,7 +25,7 @@ The analysis uses datasets containing information about unicorn companies, fundi
 - Significant variation exists between funding raised and company valuation.
 
 ## Dashboard Preview
-![Dashboard](unicorn-companies-dashboard.png)
+![Global Unicorn Companies Insights](https://github.com/user-attachments/assets/8d931db9-4ea4-4e5e-abf0-40ff74e86595)
 
 ## Author
 Janaki Sriram Segu
